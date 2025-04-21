@@ -1,0 +1,120 @@
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\Task1SQL2(1).exe.config
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\Task1SQL2(1).exe
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\Task1SQL2(1).pdb
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ControlzEx.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\Dynamitey.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MahApps.Metro.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\System.Drawing.Common.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ControlzEx.pdb
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ControlzEx.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MahApps.Metro.pdb
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MahApps.Metro.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\System.Drawing.Common.xml
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Daniil\Desktop\Task2-OOP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task1SQL2(1).exe.config
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\AdminWindow.g.cs
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\DevWindow.g.cs
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\ErrorWindow.g.cs
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\UserWindow.g.cs
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task1SQL2(1)_Content.g.cs
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task1SQL2(1)_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task1SQL2(1)_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\AdminWindow.baml
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\DevWindow.baml
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\ErrorWindow.baml
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\View\UserWindow.baml
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task1SQL2(1).g.resources
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task1SQL2_1_.Properties.Resources.resources
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task2.csproj.Up2Date
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task1SQL2(1).exe
+C:\Users\Daniil\Desktop\Task2-OOP\obj\Debug\Task1SQL2(1).pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\Task1SQL2(1).exe.config
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\Task1SQL2(1).exe
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\Task1SQL2(1).pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ControlzEx.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\Dynamitey.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MahApps.Metro.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\System.Drawing.Common.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ControlzEx.pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ControlzEx.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MahApps.Metro.pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MahApps.Metro.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\System.Drawing.Common.xml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task1SQL2(1).exe.config
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\AdminWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\DevWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\ErrorWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\UserWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task1SQL2(1)_Content.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task1SQL2(1)_MarkupCompile.cache
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task1SQL2(1)_MarkupCompile.lref
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\AdminWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\DevWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\ErrorWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\View\UserWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task1SQL2(1).g.resources
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task1SQL2_1_.Properties.Resources.resources
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task2.csproj.Up2Date
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task1SQL2(1).exe
+C:\Users\Daniil\Desktop\moto oop\Task2-OOP\obj\Debug\Task1SQL2(1).pdb

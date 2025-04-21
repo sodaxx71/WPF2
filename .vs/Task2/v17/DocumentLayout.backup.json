@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|c:\\users\\daniil\\desktop\\moto oop\\task2-oop\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|c:\\users\\daniil\\desktop\\moto oop\\task2-oop\\core\\coredbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|solutionrelative:core\\coredbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|c:\\users\\daniil\\desktop\\moto oop\\task2-oop\\model\\tasktwodbentitites.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|solutionrelative:model\\tasktwodbentitites.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|c:\\users\\daniil\\desktop\\moto oop\\task2-oop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|c:\\users\\daniil\\desktop\\moto oop\\task2-oop\\view\\devwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|solutionrelative:view\\devwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|c:\\users\\daniil\\desktop\\moto oop\\task2-oop\\view\\errorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|solutionrelative:view\\errorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|c:\\users\\daniil\\desktop\\moto oop\\task2-oop\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|c:\\users\\daniil\\desktop\\moto oop\\task2-oop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{39AAA122-1B90-4E91-96A9-6E8B258A2B08}|Task2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoreDbConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\Core\\CoreDbConnect.cs",
+              "RelativeDocumentMoniker": "Core\\CoreDbConnect.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\Core\\CoreDbConnect.cs*",
+              "RelativeToolTip": "Core\\CoreDbConnect.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:13:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskTwoDBEntitites.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\Model\\TaskTwoDBEntitites.edmx",
+              "RelativeDocumentMoniker": "Model\\TaskTwoDBEntitites.edmx",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\Model\\TaskTwoDBEntitites.edmx [Diagram1]",
+              "RelativeToolTip": "Model\\TaskTwoDBEntitites.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-21T14:13:19.44Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAD/AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-21T14:12:17.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DevWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\View\\DevWindow.xaml",
+              "RelativeDocumentMoniker": "View\\DevWindow.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\View\\DevWindow.xaml",
+              "RelativeToolTip": "View\\DevWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T14:10:32.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\View\\ErrorWindow.xaml",
+              "RelativeDocumentMoniker": "View\\ErrorWindow.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\View\\ErrorWindow.xaml",
+              "RelativeToolTip": "View\\ErrorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T14:09:57.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\View\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "View\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAArwEsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:04:22.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T14:04:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task2-OOP\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T14:04:07.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
